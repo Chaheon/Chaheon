@@ -8,7 +8,7 @@
 `-` Big Leader AI Academy _ Kyungnam Univ.  
 
 
-##### 🏆 Projuect  
+##### 🏆 Project  
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
