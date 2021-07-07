@@ -1,15 +1,15 @@
 ### Hi I'm Chaheon Kim 🙆🏻‍♂🙆🏻‍♂🙆🏻‍♂
 #### Studying Data Science & Analysis 
-#
+
 ##### 📘 ️Edu
-#
+
 `-` Jeonbuk Univ, Political and Diplomacy / Statistics
 `-` ODA Expert training _ Univ of Barcelona
 `-` Big Leader AI Academy _ Kyungnam Univ.
 
 
 ##### 🏆 Projuect
-#
+
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
 | 2020.06 - 2020.07 | 논문 통계 분석 | SPSS를 이용한 논문 내용 분석 (기술통계량 측정, T검정, Borich etc ..) |
@@ -20,7 +20,7 @@
 | 2018.07 - 2018.08 | 전북대 CK 사업단 | 캄보디아 해외 봉사 (화장실 짓기, 교육 봉사) - 대외활동 |
 
 ##### 🧩 Skill
-#
+
  R / Python / SQL / SPSS 
 
 
@@ -32,8 +32,3 @@
 [![insta](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/caesium_y/)](https://www.instagram.com/0ldcar_/)
 [![blog](https://img.shields.io/badge/github-blog-000000?style=for-the-badge&logo=github&logoColor=white&link=https://caesiumy.github.io/)](https://Chaheon.github.io/hunstory)
 [![followers](https://img.shields.io/github/followers/caesiumy?style=for-the-badge&logo=github&link=https://github.com/CaesiumY)](https://github.com/Chaheon)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesiumy&layout=compact)
-
-![caesiumy's github stats](https://github-readme-stats.vercel.app/api?username=caesiumy&show_icons=true&theme=vue) -->
