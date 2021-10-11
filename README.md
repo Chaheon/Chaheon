@@ -29,4 +29,4 @@
 
 
 [![insta](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/caesium_y/)](https://www.instagram.com/0ldcar_/)
-[![blog](https://img.shields.io/badge/github-blog-000000?style=for-the-badge&logo=github&logoColor=white&link=https://caesiumy.github.io/)](https://Chaheon.github.io/hunstory)
+[![blog](https://img.shields.io/badge/github-blog-000000?style=for-the-badge&logo=github&logoColor=white&link=https://caesiumy.github.io/)](https://heoni00.github.io)
