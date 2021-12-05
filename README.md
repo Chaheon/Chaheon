@@ -1,12 +1,13 @@
 ### Hi I'm Chaheon Kim 🙆🏻‍♂🙆🏻‍♂🙆🏻‍♂
-#### Studying Data Science & Analysis   
+#### Studying ML & DL & Database & Data Visualization
+#### Interesting PM & MLops or Opinion Analysis
 
 ##### 📘 ️Edu  
 
 `-` Jeonbuk Univ, Political and Diplomacy / Statistics  
 `-` ODA Expert training _ Univ of Barcelona  
 `-` Big Leader AI Academy _ Kyungnam Univ.  
-
+`-` Public data analysis training _ NIA
 
 ##### 🏆 Project  
 
@@ -20,6 +21,12 @@
 | ------ | ------ | ------|
 | 2017.12 - 2018.01 | 전북대 CK 사업단 | 수원국 현지조사 프로젝트 (라오스 여성 직업 개발 효과성 조사) |
 | 2018.07 - 2018.08 | 전북대 CK 사업단 | 캄보디아 해외 봉사 (화장실 짓기, 교육 봉사) - 대외활동 |  
+
+##### 🏢 Career
+
+| PERIOD | TITLE |
+| ------- | ------- |
+| 2021.09 - 2021.12 | 공공데이터 청년인턴 |
 
 ##### 🧩 Skill  
 
