@@ -1,48 +1,38 @@
-### Hi I'm Chaheon Kim 🙆🏻‍♂🙆🏻‍♂🙆🏻‍♂
-#### Studying Data Analysis & Database & Data Visualization
-#### Interesting Analysis & PM & Blanding 
+### 하루하루 성장하는 **김차헌**입니다.
 
-##### 📘 ️Edu  
+#### 통계학, 데이터 분석 그리고 시각화 지식과 기술을 공부하고 있습니다. 
+#### 분석을 통한 인사이트를 근거로 비즈니스에 기여하고 싶습니다. 
 
-`-` Jeonbuk Univ, Political / Statistics  
-`-` ODA Expert training _ Univ of Barcelona  
-`-` Big Leader AI Academy _ Kyungnam Univ.  
-`-` Public data analysis training _ NIA
+##### ["more information about me"](https://heoni00.github.io/about/)
+
+##### 🏢 Career
+
+| PERIOD | TITLE | SUBJECT |
+| ------- | ------- | ------- | 
+| **2021.09 - .12** | **공공데이터 청년인턴** | **공공 개방데이터 품질 진단 및 개선** |
+| **2022.01 - .06** | **전북선거관리위원회 여론조사 분석요원** | **선거여론조사 Raw Data 분석 및 조사결과 통계 해석** |
 
 ##### 🏆 Project  
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
-| 2020.06 - 2020.07 | 논문 통계 분석 | SPSS를 이용한 논문 내용 분석 (기술통계량 측정, T검정, Borich etc ..) |
-| 2020.09 - 2020.10 | 2020  빅콘테스트 (NIA) | 퓨쳐스리그, 야구 승률 예측|
-| 2021.07 - 2021.07 | 개인 프로젝트 | 배달의 민족 개인추천화 서비스 기회 및 알고리즘 연구 |
-| 2021.08 - 2021.08 | K-DATA & 울산항만공사 협업 프로젝트 | AI를 사용한 검수 자동화 서비스 개발 |
-| 2021.10 - 2021.12 | NIA 공공데이터 청년인턴 | 공공 개방데이터 품질 진단 및 개선 |
-| 2021.12 - 2021.12 | NIA 공공데이터 해커톤 | 공사장 인근 시민안전 공공서비스 |
-| 2022.01 - 2022.01 | 전북대 빅데이터 분석 경연대회 | 지하철 유동 인구수 별 공기질 분석 및 지도 시각화 |
-| 2022.01 - 2022.06 | 전북 선거관리위원회 분석 모니터링 | 전북 선거여론조사 결과 교차분석 및 추이분석 |
-| ------ | ------ | ------|
-| 2017.12 - 2018.01 | 전북대 CK 사업단 | 수원국 현지조사 프로젝트 (라오스 여성 직업 개발 효과성 조사) |
-| 2018.07 - 2018.08 | 전북대 CK 사업단 | 캄보디아 해외 봉사 (화장실 짓기, 교육 봉사) - 대외활동 |  
+| **2022.01 - .01** | **전북대 빅데이터 분석 경연대회** | **지하철 유동인구와 공기질 분석 및 지도 시각화** |
+| **2021.07 - .08** | **K-DATA & 울산항만공사 협업 프로젝트** | **차종 인식 AI를 활용한 차량 재고 관리 서비스** | 
+| **2021.07 - .07** | **비즈니스 모델 스터디** | **배달의 민족 개인추천화 서비스 기회 및 알고리즘 연구** |
+| **2020.09 - .10** | **2020 NIA 빅콘테스트** | **퓨쳐스리그, 20시즌 야구 승률 예측 모델 개발** |
+| **2020.06 - .07** | **박사 논문 통계 분석** | **중등 가정과 세계시민교육 프로그램 개발과 실행 평가 연구 통계 분석** |
+| 해외경험 | | |
+| **2018.07 - .08** | **캄보디아 해외봉사 (전북대)** | **캄보디아 현지 교육 봉사 및 마을 화장실 짓기** |  
+| **2017.12 - .01** | **라오스 현지조사 프로젝트 (전북대)** | **라오스 여성 직업학교 ODA 개발사업 효과성 조사** |
 
-##### 🏢 Career
+##### 🧩 Skill  
 
-| PERIOD | TITLE |
-| ------- | ------- |
-| 2021.09 - 2021.12 | 공공데이터 청년인턴 |
-| 2022.01 - 2022.06 | 전북선거관리위원회 여론조사 분석 모니터링요원 |
+[SQL](https://heoni00.github.io/categories/sql) (MySQL, DB구축)  
+[Python](https://github.com/heoni00/Python) (Pandas, Numpy, Matplotlib, folium) 
+R (통계 라이브러리, ggplot)
+EXCEL 
+SPSS 
 
 ##### 📜 Certificate
 
 사회조사분석사 2급 / ADsP / SQLD / 컴퓨터활용능력 1급 
-
-
-##### 🧩 Skill  
-
- R / Python / SQL / SPSS / EXCEL
-
-![Profile views](https://gpvc.arturio.dev/Chaheon)  
-
-
-[![insta](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/caesium_y/)](https://www.instagram.com/0ldcar_/)
-[![blog](https://img.shields.io/badge/github-blog-000000?style=for-the-badge&logo=github&logoColor=white&link=https://caesiumy.github.io/)](https://heoni00.github.io)
